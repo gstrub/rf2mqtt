@@ -2,7 +2,9 @@
 An Arduino-based 866MHz to MQTT gateway.
 
 Supported hardware:
-Currently, this project supports the following 868MHz devices:
+
+I have written this project with the following equipment in mind (that's what I have at home)
 
 - In One By Legrand RF switches and relays
-- Unelvent Ideo 325 CMV
+- Unelvent Ideo 325 ventilation unit
+
